@@ -1,7 +1,6 @@
 Package: gghelpeR
 Type: Package
-Title: Functions automating some common visualizations using ggplot, allowing for
-  additional customization and extensibility.
+Title: ggplot2 helper
 Version: 0.1.0
 Author: Paul Hively
 Maintainer: The package maintainer <p.b.hively@gmail.com>
@@ -10,3 +9,9 @@ Description: Functions automating some common visualizations using ggplot,
 License: file LICENSE
 Encoding: UTF-8
 LazyData: true
+Imports:
+  ggplot2,
+  dplyr,
+  scales,
+  magrittr (>= 2.0.0)
+RoxygenNote: 7.1.1
