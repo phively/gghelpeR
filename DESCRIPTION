@@ -1,0 +1,12 @@
+Package: gghelpeR
+Type: Package
+Title: Functions automating some common visualizations using ggplot, allowing for
+  additional customization and extensibility.
+Version: 0.1.0
+Author: Paul Hively
+Maintainer: The package maintainer <p.b.hively@gmail.com>
+Description: Functions automating some common visualizations using ggplot,
+  allowing for additional customization and extensibility.
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
